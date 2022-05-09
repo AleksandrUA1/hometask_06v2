@@ -67,4 +67,33 @@ h2 {
 }
 .dark-blue {
     background-color: #34547A;
+    padding-bottom: 80px;
+}
+.carts {
+    display: inline-block;
+    vertical-align: top;
+    width: 140px;
+    margin-right: 45px;
+}
+.inbl {
+    display: inline-block;
+    vertical-align: top;
+}
+h3 {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 24px;
+    color: white;
+}
+.indent {
+    margin-left: 20px;
+}
+.white-col {
+    color: white;
+}
+.created {
+    font-size: 13px;
+    line-height: 16px;
+    color: white;
+    margin-top: 15px;
 }
